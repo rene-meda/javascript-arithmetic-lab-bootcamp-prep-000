@@ -11,7 +11,7 @@ function multiply(a,b){
 }
 
 
-function dividie(a, b){
+function divide(a, b){
   return a / b
 }
 
